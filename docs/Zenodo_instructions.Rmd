@@ -93,9 +93,11 @@ It is also possible to apply an embargo| ![](Images/upload_vis_embargo.png)|
 
 - Make sure to add a description about the dataset (raw file, quantitative/qualitative data, link to article, etc).
 
+- Whenever possible, upload your datasets in .csv format. .csv files are supported by a wide range of software applications than Excel, making it more accessible. They are also lighter due to its simplicity (lacking of formatting).
+
 - Tag your data with file type  <span class="label label-default ng-binding" style = "background-color: #777">Dataset</span> . This will make your file easier to find.
 
-- It is possible to upload your dataset together with other materials, but it is preferable to upload it on its own. This is to ensure your data are findible when searching for datasets. In this case you will want to link it to your publication: 
+- It is possible to upload your dataset together with other materials, but it is preferable to upload it on its own. This is to ensure your data are findable when searching for datasets. In this case you will want to link it to your publication: 
     -	go to the publication, click on Edit, and fill out the field Related works. 
     
     ![](Images/Link_datasets.png)
